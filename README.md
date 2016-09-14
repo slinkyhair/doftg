@@ -1,1 +1,1 @@
-        1 file(s) copied.
+This is a readme file for DOFTG Game Design Project
