@@ -1,0 +1,1532 @@
+﻿Log file open, 10/11/16 13:40:52
+LogInit:Display: Running engine for game: First_2
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1705718601) SRandInit(-1705718601).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.067685
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3142249
+LogInit: Engine Version: 4.13.1-3142249+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3142249
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Sep 28 2016 02:12:12
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.10.11-17.40.52:754][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.11-17.40.52:754][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.10.11-17.40.52:761][  0]LogInit: Computer: BRIAN_MUSIC_PC
+[2016.10.11-17.40.52:761][  0]LogInit: User: Brian
+[2016.10.11-17.40.52:761][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.10.11-17.40.52:761][  0]LogInit: High frequency timer resolution =3.312653 MHz
+[2016.10.11-17.40.52:761][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2016.10.11-17.40.52:761][  0]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-17.40.52:761][  0]LogMemory: Process Physical Memory: 255.15 MB used, 255.15 MB peak
+[2016.10.11-17.40.52:761][  0]LogMemory: Process Virtual Memory: 259.60 MB used, 259.60 MB peak
+[2016.10.11-17.40.52:761][  0]LogMemory: Physical Memory: 3549.56 MB used, 32719.21 MB total
+[2016.10.11-17.40.52:761][  0]LogMemory: Virtual Memory: 602.06 MB used, 134217728.00 MB total
+[2016.10.11-17.40.52:793][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.10.11-17.40.53:266][  0]LogD3D11RHI: D3D11 adapters:
+[2016.10.11-17.40.53:288][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 635' (Feature Level 11_0)
+[2016.10.11-17.40.53:288][  0]LogD3D11RHI:       967/0/3072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2016.10.11-17.40.53:289][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.10.11-17.40.53:289][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.10.11-17.40.53:289][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.10.11-17.40.53:292][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.10.11-17.40.53:292][  0]LogD3D11RHI:     GPU DeviceId: 0x1280 (for the marketing name, search the web for "GPU Device Id")
+[2016.10.11-17.40.53:292][  0]LogWindows: EnumDisplayDevices:
+[2016.10.11-17.40.53:293][  0]LogWindows:    0. 'NVIDIA GeForce GT 635' (P:1 D:1)
+[2016.10.11-17.40.53:293][  0]LogWindows:    1. 'NVIDIA GeForce GT 635' (P:0 D:1)
+[2016.10.11-17.40.53:293][  0]LogWindows:    2. 'NVIDIA GeForce GT 635' (P:0 D:0)
+[2016.10.11-17.40.53:293][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2016.10.11-17.40.53:293][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 635
+[2016.10.11-17.40.53:293][  0]LogD3D11RHI:   Driver Version: 373.06 (internal:21.21.13.7306, unified:373.06)
+[2016.10.11-17.40.53:293][  0]LogD3D11RHI:      Driver Date: 10-1-2016
+[2016.10.11-17.40.53:293][  0]LogRHI: Texture pool is 677 MB (70% of 967 MB)
+[2016.10.11-17.40.53:302][  0]LogD3D11RHI: Async texture creation enabled
+[2016.10.11-17.40.53:318][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.10.11-17.40.53:318][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Intermediate/Shaders/WorkingDirectory/10736/).
+[2016.10.11-17.40.53:318][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Brian/AppData/Local/Temp/UnrealShaderWorkingDir/FCE0C4C743305660C6698C83BCBD5939/'.
+[2016.10.11-17.40.53:318][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.10.11-17.40.54:186][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.10.11-17.40.54:193][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.10.11-17.40.54:200][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.10.11-17.40.54:207][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.10.11-17.40.54:214][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.10.11-17.40.54:221][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.10.11-17.40.54:227][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.10.11-17.40.54:232][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.10.11-17.40.54:238][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.10.11-17.40.54:244][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.10.11-17.40.54:250][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.10.11-17.40.54:262][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.10.11-17.40.54:262][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.10.11-17.40.54:263][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.10.11-17.40.54:282][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.10.11-17.40.54:287][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.10.11-17.40.54:293][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.10.11-17.40.54:299][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.10.11-17.40.54:305][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.10.11-17.40.54:311][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.10.11-17.40.54:311][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.10.11-17.40.54:367][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.10.11-17.40.54:422][  0]LogDerivedDataCache: Loaded boot cache 0.06s 62MB C:/Users/Brian/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.11-17.40.54:422][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Brian/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.10.11-17.40.54:422][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.10.11-17.40.54:422][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.10.11-17.40.54:422][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.10.11-17.40.54:422][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.10.11-17.40.54:437][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.10.11-17.40.54:449][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Brian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.10.11-17.40.54:600][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.11-17.40.54:602][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.10.11-17.40.54:676][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.10.11-17.40.54:676][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.10.11-17.40.54:676][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.10.11-17.40.54:729][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.10.11-17.40.54:972][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: first_2, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2097810495
+[2016.10.11-17.40.55:008][  0]LogAssetRegistry: FAssetRegistry took 0.0220 seconds to start up
+[2016.10.11-17.40.55:032][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.021959 seconds
+[2016.10.11-17.40.55:036][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.10.11-17.40.55:036][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2016.10.11-17.40.55:036][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.10.11-17.40.55:040][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.10.11-17.40.55:207][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.11-17.40.55:207][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.11-17.40.55:716][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.10.11-17.40.55:733][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.10.11-17.40.55:933][  0]SourceControl: Info Source control is disabled
+[2016.10.11-17.40.55:933][  0]SourceControl: Info Source control is disabled
+[2016.10.11-17.40.55:939][  0]SourceControl: Info Source control is disabled
+[2016.10.11-17.40.55:945][  0]SourceControl: Info Source control is disabled
+[2016.10.11-17.40.56:132][  0]LogEngine: Initializing Engine...
+[2016.10.11-17.40.56:133][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.10.11-17.40.56:245][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.10.11-17.40.56:253][  0]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.40.56:260][  0]LogInit: FAudioDevice initialized.
+[2016.10.11-17.40.56:289][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/Brian/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.11-17.40.56:294][  0]LogInit: Texture streaming: Enabled
+[2016.10.11-17.40.56:314][  0]LogInit: Transaction tracking system initialized
+[2016.10.11-17.40.56:329][  0]BlueprintLog: New page: Editor Load
+[2016.10.11-17.40.56:387][  0]LocalizationService: Info Localization service is disabled
+[2016.10.11-17.40.56:447][  0]LogConsoleResponse:Display: 
+[2016.10.11-17.40.56:535][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.10.11-17.40.56:535][  0]LogCook:Display: Mobile HDR setting 1
+[2016.10.11-17.40.56:637][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/doftg/First_2/Content/' took 0.01s
+[2016.10.11-17.40.56:637][  0]SourceControl: Info Source control is disabled
+[2016.10.11-17.40.56:637][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.11-17.40.56:638][  0]LightingResults: New page: Lighting Build
+[2016.10.11-17.40.56:639][  0]MapCheck: New page: Map Check
+[2016.10.11-17.40.56:639][  0]LightingResults: New page: Lighting Build
+[2016.10.11-17.40.56:924][  0]LogAIModule: Creating AISystem for world Level_00
+[2016.10.11-17.40.56:932][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.11-17.40.56:932][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.11-17.40.56:966][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 33.433ms to complete.
+[2016.10.11-17.40.56:966][  0]LogFileHelpers: Loading map 'Level_00' took 0.329
+[2016.10.11-17.40.57:085][  0]LogCollectionManager: Loaded 1 collections in 0.001229 seconds
+[2016.10.11-17.40.57:124][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/doftg/First_2/Saved/Collections/' took 0.01s
+[2016.10.11-17.40.57:124][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/doftg/First_2/Content/Developers/Brian/Collections/' took 0.01s
+[2016.10.11-17.40.57:124][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brian/Documents/GitHub/doftg/First_2/Content/Collections/' took 0.01s
+[2016.10.11-17.40.57:124][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000004 seconds
+[2016.10.11-17.40.57:124][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
+[2016.10.11-17.40.57:132][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2141 classes and 415 folders.
+[2016.10.11-17.40.57:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.10.11-17.40.57:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.10.11-17.40.57:135][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0004 seconds. Added 12 classes and 0 folders.
+[2016.10.11-17.40.57:138][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.10.11-17.40.57:166][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.10.11-17.40.57:170][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.10.11-17.40.57:182][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.10.11-17.40.57:185][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.10.11-17.40.57:213][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.10.11-17.40.57:213][  0]LogLoad: (Engine Initialization) Total time: 5.16 seconds
+[2016.10.11-17.40.57:213][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.09 seconds
+[2016.10.11-17.40.57:213][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2016.10.11-17.40.57:222][  0]LogOcInput: OculusInput pre-init called
+[2016.10.11-17.40.57:239][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.11-17.40.57:344][  0]LogRenderer: Reallocating scene render targets to support 1004x456 (Frame:2).
+[2016.10.11-17.40.57:467][  1]LogAssetRegistry: Asset discovery search completed in 2.4811 seconds
+[2016.10.11-17.40.57:467][  1]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000004 seconds (found 0 objects)
+[2016.10.11-17.40.57:467][  1]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000016 seconds (updated 0 objects)
+[2016.10.11-17.41.13:568][846]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-17.41.15:138][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.41.15:236][ 12]LogSavePackage: Save=76.46ms
+[2016.10.11-17.41.15:237][ 12]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_00DA0D9D2C46D197F6838E2B8DFA6A9C05.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap'
+[2016.10.11-17.41.15:239][ 12]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap
+[2016.10.11-17.41.15:263][ 12]LogFileHelpers: Saving map 'Level_00' took 0.166
+[2016.10.11-17.41.17:910][315]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castle_Sprite_15)
+[2016.10.11-17.41.19:288][469]LogEditorViewport: Clicking Background
+[2016.10.11-17.41.20:292][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-17.41.20:292][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.11-17.41.20:293][586]PIE: New page: PIE session: Level_00 (Oct 11, 2016, 8:41:20 AM)
+[2016.10.11-17.41.20:293][586]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2016.10.11-17.41.20:299][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006300s)
+[2016.10.11-17.41.20:300][586]LogAIModule: Creating AISystem for world Level_00
+[2016.10.11-17.41.20:301][586]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2016.10.11-17.41.20:301][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.007807s)
+[2016.10.11-17.41.20:315][586]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.41.20:319][586]LogInit: FAudioDevice initialized.
+[2016.10.11-17.41.20:360][586]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.41.20:368][586]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.10.11-13.41.20
+[2016.10.11-17.41.20:368][586]LogWorld: Bringing up level for play took: 0.007735
+[2016.10.11-17.41.20:371][586]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2016.10.11-17.41.20:371][586]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.41.20:371][586]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.41.20:371][586]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.41.20:372][586]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.41.20:372][586]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 0.643
+[2016.10.11-17.41.20:372][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-17.41.22:831][787]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.41.25:848][ 35]LogBlueprintUserMessages: [BP_Man_C_1] You Died
+[2016.10.11-17.41.27:893][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-17.41.27:944][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-17.41.29:952][419]LogAIModule: Creating AISystem for world Level_01
+[2016.10.11-17.41.29:970][419]Cmd: MAP LOAD FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.11-17.41.29:970][419]LightingResults: New page: Lighting Build
+[2016.10.11-17.41.29:971][419]LoadErrors: New page: Loading map: Level_01.umap
+[2016.10.11-17.41.29:971][419]MapCheck: New page: Map Check
+[2016.10.11-17.41.29:971][419]LightingResults: New page: Lighting Build
+[2016.10.11-17.41.29:984][419]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.11-17.41.30:008][419]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.11-17.41.30:043][419]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 35.568ms to complete.
+[2016.10.11-17.41.30:043][419]LogFileHelpers: Loading map 'Level_01' took 0.074
+[2016.10.11-17.41.35:454][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.11-17.41.35:454][ 49]PIE: New page: PIE session: Level_01 (Oct 11, 2016, 8:41:35 AM)
+[2016.10.11-17.41.35:454][ 49]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_01
+[2016.10.11-17.41.35:460][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005698s)
+[2016.10.11-17.41.35:461][ 49]LogAIModule: Creating AISystem for world Level_01
+[2016.10.11-17.41.35:461][ 49]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2016.10.11-17.41.35:461][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_01.Level_01 to /Game/Demo/Maps/UEDPIE_0_Level_01.Level_01 (0.007320s)
+[2016.10.11-17.41.35:475][ 49]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.41.35:479][ 49]LogInit: FAudioDevice initialized.
+[2016.10.11-17.41.35:506][ 49]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.41.35:514][ 49]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2016.10.11-13.41.35
+[2016.10.11-17.41.35:514][ 49]LogWorld: Bringing up level for play took: 0.006876
+[2016.10.11-17.41.35:515][ 49]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.41.35:515][ 49]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.41.35:515][ 49]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.41.35:516][ 49]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.41.35:516][ 49]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_01 -0.213
+[2016.10.11-17.41.37:060][165]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.41.39:912][383]LogBlueprintUserMessages: [BP_Man_C_1] You Died
+[2016.10.11-17.41.42:277][564]LogBlueprintUserMessages: [BP_Man_C_2] You Died
+[2016.10.11-17.41.43:257][639]LogBlueprintUserMessages: [BP_Man_C_3] You Died
+[2016.10.11-17.41.45:041][776]LogBlueprintUserMessages: [BP_Man_C_4] You Died
+[2016.10.11-17.41.54:227][607]Cmd: EDIT COPY
+[2016.10.11-17.41.56:823][909]Cmd: EDIT PASTE
+[2016.10.11-17.42.09:579][321]LogEditorViewport: Clicking Background
+[2016.10.11-17.42.20:966][569]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-17.42.21:547][635]LogEditorViewport: Clicking Background
+[2016.10.11-17.42.22:213][712]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2016.10.11-17.42.24:178][901]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-17.42.24:795][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_01" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.42.24:855][962]LogSavePackage: Save=39.94ms
+[2016.10.11-17.42.24:855][962]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_01BEE7017F4F73677696B29E99F7DAE579.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_01.umap'
+[2016.10.11-17.42.24:858][962]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_01.umap
+[2016.10.11-17.42.24:883][962]LogFileHelpers: Saving map 'Level_01' took 0.146
+[2016.10.11-17.42.26:073][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.11-17.42.26:073][ 97]PIE: New page: PIE session: Level_01 (Oct 11, 2016, 8:42:26 AM)
+[2016.10.11-17.42.26:073][ 97]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_01
+[2016.10.11-17.42.26:079][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005339s)
+[2016.10.11-17.42.26:080][ 97]LogAIModule: Creating AISystem for world Level_01
+[2016.10.11-17.42.26:080][ 97]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2016.10.11-17.42.26:080][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_01.Level_01 to /Game/Demo/Maps/UEDPIE_0_Level_01.Level_01 (0.006773s)
+[2016.10.11-17.42.26:092][ 97]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.42.26:095][ 97]LogInit: FAudioDevice initialized.
+[2016.10.11-17.42.26:127][ 97]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.42.26:135][ 97]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2016.10.11-13.42.26
+[2016.10.11-17.42.26:135][ 97]LogWorld: Bringing up level for play took: 0.007007
+[2016.10.11-17.42.26:136][ 97]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.42.26:136][ 97]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.42.26:136][ 97]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.42.26:136][ 97]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.42.26:136][ 97]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_01 0.408
+[2016.10.11-17.42.28:138][249]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.42.30:561][434]LogBlueprintUserMessages: [BP_Man_C_1] You Died
+[2016.10.11-17.42.37:119][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.11-17.42.37:119][  4]PIE: New page: PIE session: Level_01 (Oct 11, 2016, 8:42:37 AM)
+[2016.10.11-17.42.37:119][  4]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_01
+[2016.10.11-17.42.37:124][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004883s)
+[2016.10.11-17.42.37:125][  4]LogAIModule: Creating AISystem for world Level_01
+[2016.10.11-17.42.37:125][  4]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2016.10.11-17.42.37:125][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_01.Level_01 to /Game/Demo/Maps/UEDPIE_0_Level_01.Level_01 (0.005853s)
+[2016.10.11-17.42.37:137][  4]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.42.37:140][  4]LogInit: FAudioDevice initialized.
+[2016.10.11-17.42.37:169][  4]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.42.37:177][  4]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2016.10.11-13.42.37
+[2016.10.11-17.42.37:177][  4]LogWorld: Bringing up level for play took: 0.006828
+[2016.10.11-17.42.37:178][  4]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.42.37:178][  4]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.42.37:178][  4]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.42.37:179][  4]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.42.37:179][  4]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_01 -0.551
+[2016.10.11-17.42.45:179][611]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.42.45:179][611]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.42.45:179][611]LogNet: Browse: /Game/Demo/Maps/Level_05
+[2016.10.11-17.42.45:179][611]LogLoad: LoadMap: /Game/Demo/Maps/Level_05
+[2016.10.11-17.42.45:198][611]Cmd: MEM
+[2016.10.11-17.42.45:206][611]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-17.42.45:206][611]LogMemory: Process Physical Memory: 904.60 MB used, 912.21 MB peak
+[2016.10.11-17.42.45:206][611]LogMemory: Process Virtual Memory: 1240.07 MB used, 1311.32 MB peak
+[2016.10.11-17.42.45:206][611]LogMemory: Physical Memory: 4215.96 MB used, 32719.21 MB total
+[2016.10.11-17.42.45:206][611]LogMemory: Virtual Memory: 1954.13 MB used, 134217728.00 MB total
+[2016.10.11-17.42.45:206][611]LogMemory: 
+[2016.10.11-17.42.45:206][611]Allocator Stats for TBB: (not implemented)
+[2016.10.11-17.42.45:332][611]LogAIModule: Creating AISystem for world Level_05
+[2016.10.11-17.42.45:332][611]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.42.45:337][611]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_05.Level_05 up for play (max tick rate 0) at 2016.10.11-13.42.45
+[2016.10.11-17.42.45:337][611]LogWorld: Bringing up level for play took: 0.004339
+[2016.10.11-17.42.45:338][611]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.42.45:338][611]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.42.45:338][611]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.42.45:338][611]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.42.45:338][611]LogLoad: Took 0.159376 seconds to LoadMap(/Game/Demo/Maps/Level_05)
+[2016.10.11-17.42.54:789][390]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.42.56:581][537]LogBlueprintUserMessages: [BP_Man_C_1] You Died
+[2016.10.11-17.43.00:129][885]LogAIModule: Creating AISystem for world Level_02
+[2016.10.11-17.43.00:146][885]Cmd: MAP LOAD FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.11-17.43.00:146][885]LightingResults: New page: Lighting Build
+[2016.10.11-17.43.00:147][885]LoadErrors: New page: Loading map: Level_02.umap
+[2016.10.11-17.43.00:148][885]MapCheck: New page: Map Check
+[2016.10.11-17.43.00:148][885]LightingResults: New page: Lighting Build
+[2016.10.11-17.43.00:164][885]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.11-17.43.00:188][885]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.11-17.43.00:225][885]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 37.015ms to complete.
+[2016.10.11-17.43.00:225][885]LogFileHelpers: Loading map 'Level_02' took 0.080
+[2016.10.11-17.43.07:581][678]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-17.43.10:891][ 62]LogEditorViewport: Clicking Background
+[2016.10.11-17.43.13:909][399]Cmd: EDIT COPY
+[2016.10.11-17.43.14:181][431]Cmd: EDIT PASTE
+[2016.10.11-17.43.22:863][385]LogEditorViewport: Clicking Background
+[2016.10.11-17.43.25:765][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_02" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.43.25:871][710]LogSavePackage: Save=83.56ms
+[2016.10.11-17.43.25:871][710]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_022AD81958457540D56477BB9E722C9CD9.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_02.umap'
+[2016.10.11-17.43.25:873][710]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_02.umap
+[2016.10.11-17.43.25:898][710]LogFileHelpers: Saving map 'Level_02' took 0.189
+[2016.10.11-17.43.28:474][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02' with GeneratedClass '/Game/Demo/Maps/Level_02.Level_02_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02'
+[2016.10.11-17.43.28:474][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.11-17.43.28:475][  4]PIE: New page: PIE session: Level_02 (Oct 11, 2016, 8:43:28 AM)
+[2016.10.11-17.43.28:475][  4]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_02
+[2016.10.11-17.43.28:481][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006466s)
+[2016.10.11-17.43.28:482][  4]LogAIModule: Creating AISystem for world Level_02
+[2016.10.11-17.43.28:482][  4]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2016.10.11-17.43.28:482][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_02.Level_02 to /Game/Demo/Maps/UEDPIE_0_Level_02.Level_02 (0.007674s)
+[2016.10.11-17.43.28:494][  4]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.43.28:497][  4]LogInit: FAudioDevice initialized.
+[2016.10.11-17.43.28:529][  4]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.43.28:539][  4]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2016.10.11-13.43.28
+[2016.10.11-17.43.28:540][  4]LogWorld: Bringing up level for play took: 0.009287
+[2016.10.11-17.43.28:541][  4]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.43.28:541][  4]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.43.28:541][  4]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.43.28:541][  4]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.43.28:541][  4]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_02 0.812
+[2016.10.11-17.43.28:542][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02' with GeneratedClass '/Game/Demo/Maps/Level_02.Level_02_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02'
+[2016.10.11-17.43.32:120][300]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.43.36:342][651]LogBlueprintUserMessages: [BP_Man_C_1] You Died
+[2016.10.11-17.43.38:352][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02' with GeneratedClass '/Game/Demo/Maps/Level_02.Level_02_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02'
+[2016.10.11-17.43.38:395][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02' with GeneratedClass '/Game/Demo/Maps/Level_02.Level_02_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02'
+[2016.10.11-17.43.40:894][102]LogAIModule: Creating AISystem for world Level_03
+[2016.10.11-17.43.40:912][102]Cmd: MAP LOAD FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.11-17.43.40:912][102]LightingResults: New page: Lighting Build
+[2016.10.11-17.43.40:913][102]LoadErrors: New page: Loading map: Level_03.umap
+[2016.10.11-17.43.40:913][102]MapCheck: New page: Map Check
+[2016.10.11-17.43.40:913][102]LightingResults: New page: Lighting Build
+[2016.10.11-17.43.40:930][102]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.11-17.43.40:954][102]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.11-17.43.40:992][102]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 38.663ms to complete.
+[2016.10.11-17.43.40:992][102]LogFileHelpers: Loading map 'Level_03' took 0.081
+[2016.10.11-17.44.00:200][358]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.44.00:200][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.11-17.44.00:200][358]PIE: New page: PIE session: Level_03 (Oct 11, 2016, 8:44:00 AM)
+[2016.10.11-17.44.00:200][358]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_03
+[2016.10.11-17.44.00:210][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009687s)
+[2016.10.11-17.44.00:211][358]LogAIModule: Creating AISystem for world Level_03
+[2016.10.11-17.44.00:211][358]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2016.10.11-17.44.00:212][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_03.Level_03 to /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 (0.011116s)
+[2016.10.11-17.44.00:225][358]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.44.00:228][358]LogInit: FAudioDevice initialized.
+[2016.10.11-17.44.00:257][358]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.44.00:271][358]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2016.10.11-13.44.00
+[2016.10.11-17.44.00:272][358]LogWorld: Bringing up level for play took: 0.013440
+[2016.10.11-17.44.00:272][358]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.44.00:272][358]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.44.00:272][358]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.44.00:273][358]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.44.00:273][358]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_03 0.544
+[2016.10.11-17.44.00:273][358]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.44.03:148][592]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.44.06:696][886]LogBlueprintUserMessages: [BP_Man_C_1] You Died
+[2016.10.11-17.44.08:611][ 44]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.44.08:655][ 44]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.44.23:402][734]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-17.44.29:946][431]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-17.44.30:948][544]LogEditorViewport: Clicking Background
+[2016.10.11-17.44.34:939][980]Cmd: TRANSACTION UNDO
+[2016.10.11-17.44.34:939][980]LogEditorTransaction: Undo Clicking Background
+[2016.10.11-17.44.35:472][ 13]Cmd: TRANSACTION UNDO
+[2016.10.11-17.44.35:472][ 13]LogEditorTransaction: Undo Move Actors
+[2016.10.11-17.44.35:488][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_178.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:489][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_19.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:489][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_145.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:490][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_149.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:491][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_195.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:491][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_36.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:491][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_38.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:492][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_45.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:492][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_21.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:493][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_25.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:494][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_101.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:495][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_105.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:496][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.dummyTarget_Blueprint.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:499][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.dummyTarget_Blueprint9.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:500][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_111.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:500][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_132.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:500][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_134.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:501][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_139.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:501][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_116.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:503][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_122.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:503][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_34.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:504][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_38.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:504][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_21.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:504][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_23.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:505][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_28.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:505][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_45.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:506][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_64.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:508][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_9.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:509][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_5.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:510][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_53.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:510][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_72.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:511][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_77.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:512][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_52.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:512][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_49.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:513][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_58.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:513][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_83.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:513][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_11.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:513][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_123.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:514][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castleCenter_rounded_Sprite_154.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:515][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_88.RenderComponent) Component already registered.
+[2016.10.11-17.44.35:516][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.castle_Sprite_91.RenderComponent) Component already registered.
+[2016.10.11-17.44.41:143][590]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-17.44.45:341][ 77]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-17.44.46:140][163]LogEditorViewport: Clicking Background
+[2016.10.11-17.44.47:329][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_03" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.44.47:458][292]LogSavePackage: Save=104.87ms
+[2016.10.11-17.44.47:458][292]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_038C005C024C74134B60E88DA2C65D9142.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_03.umap'
+[2016.10.11-17.44.47:461][292]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_03.umap
+[2016.10.11-17.44.47:492][292]LogFileHelpers: Saving map 'Level_03' took 0.225
+[2016.10.11-17.44.48:839][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.44.48:839][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.11-17.44.48:839][444]PIE: New page: PIE session: Level_03 (Oct 11, 2016, 8:44:48 AM)
+[2016.10.11-17.44.48:839][444]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_03
+[2016.10.11-17.44.48:848][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009359s)
+[2016.10.11-17.44.48:849][444]LogAIModule: Creating AISystem for world Level_03
+[2016.10.11-17.44.48:849][444]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2016.10.11-17.44.48:849][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_03.Level_03 to /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 (0.010401s)
+[2016.10.11-17.44.48:863][444]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.44.48:866][444]LogInit: FAudioDevice initialized.
+[2016.10.11-17.44.48:898][444]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.44.48:911][444]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2016.10.11-13.44.48
+[2016.10.11-17.44.48:912][444]LogWorld: Bringing up level for play took: 0.013185
+[2016.10.11-17.44.48:913][444]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.44.48:913][444]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.44.48:913][444]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.44.48:914][444]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.44.48:914][444]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_03 -0.815
+[2016.10.11-17.44.48:914][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.44.52:221][692]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.44.56:484][ 15]LogBlueprintUserMessages: [BP_Man_C_1] You Died
+[2016.10.11-17.45.56:704][572]LogBlueprintUserMessages: [paper_A_level03_79] Collect more papers
+[2016.10.11-17.46.41:671][984]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.46.41:713][984]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.47.03:038][480]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 112 classes and 0 folders.
+[2016.10.11-17.49.37:064][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Man" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/BP_Man.uasset" SILENT=true
+[2016.10.11-17.49.37:124][765]LogSavePackage: Save=44.98ms
+[2016.10.11-17.49.37:124][765]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/BP_Man3070C5B444943D91C79D6CA1EE695DA4.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/BP_Man.uasset'
+[2016.10.11-17.49.37:127][765]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/BP_Man.uasset
+[2016.10.11-17.49.39:433][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.49.39:433][ 39]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.10.11-17.49.39:433][ 39]LogPlayLevel: [PlayLevel] Compiling BP_Man before play...
+[2016.10.11-17.49.39:574][ 39]LogPlayLevel: PlayLevel: Blueprint regeneration took 141 ms (1 blueprints)
+[2016.10.11-17.49.39:574][ 39]PIE: New page: PIE session: Level_03 (Oct 11, 2016, 8:49:39 AM)
+[2016.10.11-17.49.39:574][ 39]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_03
+[2016.10.11-17.49.39:583][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008655s)
+[2016.10.11-17.49.39:584][ 39]LogAIModule: Creating AISystem for world Level_03
+[2016.10.11-17.49.39:585][ 39]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2016.10.11-17.49.39:585][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_03.Level_03 to /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 (0.010353s)
+[2016.10.11-17.49.39:600][ 39]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.49.39:603][ 39]LogInit: FAudioDevice initialized.
+[2016.10.11-17.49.39:631][ 39]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.49.39:665][ 39]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2016.10.11-13.49.39
+[2016.10.11-17.49.39:666][ 39]LogWorld: Bringing up level for play took: 0.032470
+[2016.10.11-17.49.39:667][ 39]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.49.39:667][ 39]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.49.39:667][ 39]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.49.39:668][ 39]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.49.39:668][ 39]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_03 -0.061
+[2016.10.11-17.49.39:668][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.49.44:203][376]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.49.44:215][377]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.49.44:215][377]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.49.44:216][377]LogNet: Browse: /Game/Demo/Maps/Level_03
+[2016.10.11-17.49.44:216][377]LogLoad: LoadMap: /Game/Demo/Maps/Level_03
+[2016.10.11-17.49.44:256][377]Cmd: MEM
+[2016.10.11-17.49.44:267][377]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-17.49.44:267][377]LogMemory: Process Physical Memory: 1082.41 MB used, 1090.52 MB peak
+[2016.10.11-17.49.44:267][377]LogMemory: Process Virtual Memory: 1485.80 MB used, 1491.92 MB peak
+[2016.10.11-17.49.44:267][377]LogMemory: Physical Memory: 4367.61 MB used, 32719.21 MB total
+[2016.10.11-17.49.44:267][377]LogMemory: Virtual Memory: 2183.30 MB used, 134217728.00 MB total
+[2016.10.11-17.49.44:267][377]LogMemory: 
+[2016.10.11-17.49.44:267][377]Allocator Stats for TBB: (not implemented)
+[2016.10.11-17.49.44:267][377]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_03
+[2016.10.11-17.49.44:275][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007974s)
+[2016.10.11-17.49.44:275][377]LogAIModule: Creating AISystem for world Level_03
+[2016.10.11-17.49.44:276][377]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2016.10.11-17.49.44:276][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_03.Level_03 to /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 (0.008967s)
+[2016.10.11-17.49.44:276][377]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.49.44:289][377]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2016.10.11-13.49.44
+[2016.10.11-17.49.44:290][377]LogWorld: Bringing up level for play took: 0.013261
+[2016.10.11-17.49.44:290][377]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.49.44:290][377]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.49.44:291][377]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.49.44:291][377]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.49.44:291][377]LogLoad: Took 0.075196 seconds to LoadMap(/Game/Demo/Maps/UEDPIE_0_Level_03)
+[2016.10.11-17.49.47:991][654]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.49.48:003][655]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.49.48:003][655]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.49.48:003][655]LogNet: Browse: /Game/Demo/Maps/Level_03
+[2016.10.11-17.49.48:004][655]LogLoad: LoadMap: /Game/Demo/Maps/Level_03
+[2016.10.11-17.49.48:036][655]Cmd: MEM
+[2016.10.11-17.49.48:047][655]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-17.49.48:047][655]LogMemory: Process Physical Memory: 1081.04 MB used, 1090.75 MB peak
+[2016.10.11-17.49.48:047][655]LogMemory: Process Virtual Memory: 1459.61 MB used, 1602.36 MB peak
+[2016.10.11-17.49.48:047][655]LogMemory: Physical Memory: 4366.67 MB used, 32719.21 MB total
+[2016.10.11-17.49.48:047][655]LogMemory: Virtual Memory: 2162.36 MB used, 134217728.00 MB total
+[2016.10.11-17.49.48:047][655]LogMemory: 
+[2016.10.11-17.49.48:047][655]Allocator Stats for TBB: (not implemented)
+[2016.10.11-17.49.48:047][655]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_03
+[2016.10.11-17.49.48:056][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008608s)
+[2016.10.11-17.49.48:057][655]LogAIModule: Creating AISystem for world Level_03
+[2016.10.11-17.49.48:057][655]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2016.10.11-17.49.48:057][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_03.Level_03 to /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 (0.009880s)
+[2016.10.11-17.49.48:057][655]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.49.48:070][655]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2016.10.11-13.49.48
+[2016.10.11-17.49.48:071][655]LogWorld: Bringing up level for play took: 0.012760
+[2016.10.11-17.49.48:071][655]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.49.48:071][655]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.49.48:071][655]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.49.48:072][655]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.49.48:072][655]LogLoad: Took 0.068856 seconds to LoadMap(/Game/Demo/Maps/UEDPIE_0_Level_03)
+[2016.10.11-17.49.51:165][886]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.49.51:193][887]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.49.51:193][887]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.49.51:195][887]LogNet: Browse: /Game/Demo/Maps/Level_03
+[2016.10.11-17.49.51:195][887]LogLoad: LoadMap: /Game/Demo/Maps/Level_03
+[2016.10.11-17.49.51:228][887]Cmd: MEM
+[2016.10.11-17.49.51:245][887]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-17.49.51:245][887]LogMemory: Process Physical Memory: 1085.38 MB used, 1090.75 MB peak
+[2016.10.11-17.49.51:245][887]LogMemory: Process Virtual Memory: 1466.82 MB used, 1602.36 MB peak
+[2016.10.11-17.49.51:245][887]LogMemory: Physical Memory: 4358.50 MB used, 32719.21 MB total
+[2016.10.11-17.49.51:245][887]LogMemory: Virtual Memory: 2163.80 MB used, 134217728.00 MB total
+[2016.10.11-17.49.51:245][887]LogMemory: 
+[2016.10.11-17.49.51:245][887]Allocator Stats for TBB: (not implemented)
+[2016.10.11-17.49.51:245][887]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_03
+[2016.10.11-17.49.51:254][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008420s)
+[2016.10.11-17.49.51:254][887]LogAIModule: Creating AISystem for world Level_03
+[2016.10.11-17.49.51:254][887]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2016.10.11-17.49.51:254][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_03.Level_03 to /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 (0.009248s)
+[2016.10.11-17.49.51:254][887]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.49.51:267][887]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2016.10.11-13.49.51
+[2016.10.11-17.49.51:268][887]LogWorld: Bringing up level for play took: 0.012939
+[2016.10.11-17.49.51:269][887]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.49.51:269][887]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.49.51:269][887]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.49.51:270][887]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.49.51:270][887]LogLoad: Took 0.074717 seconds to LoadMap(/Game/Demo/Maps/UEDPIE_0_Level_03)
+[2016.10.11-17.50.35:629][209]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.50.35:629][209]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.50.35:630][209]LogNet: Browse: /Game/Demo/Maps/Level_04
+[2016.10.11-17.50.35:630][209]LogLoad: LoadMap: /Game/Demo/Maps/Level_04
+[2016.10.11-17.50.35:662][209]Cmd: MEM
+[2016.10.11-17.50.35:677][209]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-17.50.35:677][209]LogMemory: Process Physical Memory: 1086.54 MB used, 1090.75 MB peak
+[2016.10.11-17.50.35:677][209]LogMemory: Process Virtual Memory: 1465.40 MB used, 1602.36 MB peak
+[2016.10.11-17.50.35:677][209]LogMemory: Physical Memory: 4359.48 MB used, 32719.21 MB total
+[2016.10.11-17.50.35:677][209]LogMemory: Virtual Memory: 2167.25 MB used, 134217728.00 MB total
+[2016.10.11-17.50.35:677][209]LogMemory: 
+[2016.10.11-17.50.35:677][209]Allocator Stats for TBB: (not implemented)
+[2016.10.11-17.50.35:739][209]LogAIModule: Creating AISystem for world Level_04
+[2016.10.11-17.50.35:740][209]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.50.35:762][209]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_04.Level_04 up for play (max tick rate 0) at 2016.10.11-13.50.35
+[2016.10.11-17.50.35:763][209]LogWorld: Bringing up level for play took: 0.021644
+[2016.10.11-17.50.35:764][209]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.50.35:764][209]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.50.35:764][209]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.50.35:765][209]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.50.35:765][209]LogLoad: Took 0.133650 seconds to LoadMap(/Game/Demo/Maps/Level_04)
+[2016.10.11-17.50.56:707][781]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.50.56:719][782]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.50.56:719][782]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.50.56:720][782]LogNet: Browse: /Game/Demo/Maps/Level_04
+[2016.10.11-17.50.56:720][782]LogLoad: LoadMap: /Game/Demo/Maps/Level_04
+[2016.10.11-17.50.56:756][782]Cmd: MEM
+[2016.10.11-17.50.56:770][782]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-17.50.56:770][782]LogMemory: Process Physical Memory: 1080.52 MB used, 1093.81 MB peak
+[2016.10.11-17.50.56:770][782]LogMemory: Process Virtual Memory: 1461.85 MB used, 1602.36 MB peak
+[2016.10.11-17.50.56:770][782]LogMemory: Physical Memory: 4350.26 MB used, 32719.21 MB total
+[2016.10.11-17.50.56:770][782]LogMemory: Virtual Memory: 2169.57 MB used, 134217728.00 MB total
+[2016.10.11-17.50.56:770][782]LogMemory: 
+[2016.10.11-17.50.56:770][782]Allocator Stats for TBB: (not implemented)
+[2016.10.11-17.50.56:854][782]LogAIModule: Creating AISystem for world Level_04
+[2016.10.11-17.50.56:854][782]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.50.56:875][782]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_04.Level_04 up for play (max tick rate 0) at 2016.10.11-13.50.56
+[2016.10.11-17.50.56:876][782]LogWorld: Bringing up level for play took: 0.021073
+[2016.10.11-17.50.56:877][782]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.50.56:877][782]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.50.56:877][782]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.50.56:877][782]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.50.56:877][782]LogLoad: Took 0.157997 seconds to LoadMap(/Game/Demo/Maps/Level_04)
+[2016.10.11-17.52.18:071][845]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.52.18:072][845]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.52.18:072][845]LogNet: Browse: /Game/Demo/Maps/Level_05
+[2016.10.11-17.52.18:072][845]LogLoad: LoadMap: /Game/Demo/Maps/Level_05
+[2016.10.11-17.52.18:103][845]Cmd: MEM
+[2016.10.11-17.52.18:118][845]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-17.52.18:118][845]LogMemory: Process Physical Memory: 1079.75 MB used, 1093.81 MB peak
+[2016.10.11-17.52.18:118][845]LogMemory: Process Virtual Memory: 1457.25 MB used, 1602.36 MB peak
+[2016.10.11-17.52.18:118][845]LogMemory: Physical Memory: 4349.40 MB used, 32719.21 MB total
+[2016.10.11-17.52.18:118][845]LogMemory: Virtual Memory: 2163.37 MB used, 134217728.00 MB total
+[2016.10.11-17.52.18:118][845]LogMemory: 
+[2016.10.11-17.52.18:118][845]Allocator Stats for TBB: (not implemented)
+[2016.10.11-17.52.18:148][845]LogAIModule: Creating AISystem for world Level_05
+[2016.10.11-17.52.18:148][845]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.52.18:154][845]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_05.Level_05 up for play (max tick rate 0) at 2016.10.11-13.52.18
+[2016.10.11-17.52.18:154][845]LogWorld: Bringing up level for play took: 0.004351
+[2016.10.11-17.52.18:154][845]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.52.18:155][845]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.52.18:155][845]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.52.18:155][845]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.52.18:155][845]LogLoad: Took 0.083121 seconds to LoadMap(/Game/Demo/Maps/Level_05)
+[2016.10.11-17.52.49:228][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.52.49:267][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03' with GeneratedClass '/Game/Demo/Maps/Level_03.Level_03_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_03.Level_03:PersistentLevel.Level_03'
+[2016.10.11-17.52.55:951][176]LogAIModule: Creating AISystem for world Level_04
+[2016.10.11-17.52.55:972][176]Cmd: MAP LOAD FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_04.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.11-17.52.55:972][176]LightingResults: New page: Lighting Build
+[2016.10.11-17.52.55:973][176]LoadErrors: New page: Loading map: Level_04.umap
+[2016.10.11-17.52.55:974][176]MapCheck: New page: Map Check
+[2016.10.11-17.52.55:974][176]LightingResults: New page: Lighting Build
+[2016.10.11-17.52.56:000][176]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.11-17.52.56:024][176]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.11-17.52.56:068][176]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 42.679ms to complete.
+[2016.10.11-17.52.56:068][176]LogFileHelpers: Loading map 'Level_04' took 0.096
+[2016.10.11-17.53.05:152][133]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-17.53.07:020][326]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-17.53.07:821][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_04" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.53.07:996][403]LogSavePackage: Save=149.29ms
+[2016.10.11-17.53.07:996][403]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_040E8D404B42DA7CA6160410905D18957C.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_04.umap'
+[2016.10.11-17.53.07:998][403]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_04.umap
+[2016.10.11-17.53.08:023][403]LogFileHelpers: Saving map 'Level_04' took 0.254
+[2016.10.11-17.53.08:484][449]LogEditorViewport: Clicking Background
+[2016.10.11-17.53.11:685][813]LogAIModule: Creating AISystem for world Level_05
+[2016.10.11-17.53.11:701][813]Cmd: MAP LOAD FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.11-17.53.11:702][813]LightingResults: New page: Lighting Build
+[2016.10.11-17.53.11:702][813]LoadErrors: New page: Loading map: Level_05.umap
+[2016.10.11-17.53.11:704][813]MapCheck: New page: Map Check
+[2016.10.11-17.53.11:704][813]LightingResults: New page: Lighting Build
+[2016.10.11-17.53.11:720][813]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.11-17.53.11:744][813]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.11-17.53.11:785][813]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.171ms to complete.
+[2016.10.11-17.53.11:785][813]LogFileHelpers: Loading map 'Level_05' took 0.084
+[2016.10.11-17.53.28:046][678]LogEditorViewport: Clicking on Actor (LMB): FinalBossFB_Blueprint_C (FinalBossFB_Blueprint)
+[2016.10.11-17.53.29:710][872]LogEditorViewport: Clicking on Actor (LMB): paper_A_level00_C (paper_A_level00)
+[2016.10.11-17.53.36:567][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_05" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.53.36:669][464]LogSavePackage: Save=76.70ms
+[2016.10.11-17.53.36:669][464]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_05280E9E5E41E4A258CEA185A972C88C8C.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap'
+[2016.10.11-17.53.36:672][464]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap
+[2016.10.11-17.53.36:696][464]LogFileHelpers: Saving map 'Level_05' took 0.185
+[2016.10.11-17.53.39:903][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_05" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.53.40:005][827]LogSavePackage: Save=76.51ms
+[2016.10.11-17.53.40:005][827]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_0528135DF3420AB6A6927787BA8CCF6AE2.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap'
+[2016.10.11-17.53.40:007][827]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap
+[2016.10.11-17.53.40:030][827]LogFileHelpers: Saving map 'Level_05' took 0.183
+[2016.10.11-17.53.46:830][616]LogEditorViewport: Clicking on Actor (LMB): paper_A_level00_C (paper_A_level00)
+[2016.10.11-17.53.47:636][708]Cmd: DELETE
+[2016.10.11-17.53.47:636][708]Cmd: ACTOR DELETE
+[2016.10.11-17.53.47:638][708]LogEditorActor: Deleted Actor: paper_A_level00_C
+[2016.10.11-17.53.47:675][708]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2016.10.11-17.54.22:583][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_05" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.54.22:688][739]LogSavePackage: Save=79.17ms
+[2016.10.11-17.54.22:688][739]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_056B19F0F74ABB47E8DDF9E3A450DA7147.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap'
+[2016.10.11-17.54.22:690][739]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap
+[2016.10.11-17.54.22:714][739]LogFileHelpers: Saving map 'Level_05' took 0.172
+[2016.10.11-17.54.22:716][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/paper_A_level05" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level05.uasset" SILENT=true
+[2016.10.11-17.54.22:726][739]LogSavePackage: Save=8.75ms
+[2016.10.11-17.54.22:726][739]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/paper_A_level05FF48466A442E86BC6D4AB2B8EF7A5D6B.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level05.uasset'
+[2016.10.11-17.54.22:727][739]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level05.uasset
+[2016.10.11-17.54.48:309][739]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.10.11-17.55.13:810][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/paper_A_level05" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level05.uasset" SILENT=true
+[2016.10.11-17.55.13:835][783]LogSavePackage: Save=10.49ms
+[2016.10.11-17.55.13:835][783]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/paper_A_level05B8E1AC77436C633D532E918B0ED2C0A6.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level05.uasset'
+[2016.10.11-17.55.13:837][783]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level05.uasset
+[2016.10.11-17.55.16:344][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05' with GeneratedClass '/Game/Demo/Maps/Level_05.Level_05_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05'
+[2016.10.11-17.55.16:344][ 81]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.10.11-17.55.16:344][ 81]LogPlayLevel: [PlayLevel] Compiling paper_A_level05 before play...
+[2016.10.11-17.55.16:420][ 81]LogPlayLevel: PlayLevel: Blueprint regeneration took 76 ms (1 blueprints)
+[2016.10.11-17.55.16:420][ 81]PIE: New page: PIE session: Level_05 (Oct 11, 2016, 8:55:16 AM)
+[2016.10.11-17.55.16:420][ 81]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_05
+[2016.10.11-17.55.16:423][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002852s)
+[2016.10.11-17.55.16:424][ 81]LogAIModule: Creating AISystem for world Level_05
+[2016.10.11-17.55.16:424][ 81]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2016.10.11-17.55.16:424][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_05.Level_05 to /Game/Demo/Maps/UEDPIE_0_Level_05.Level_05 (0.004249s)
+[2016.10.11-17.55.16:442][ 81]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.55.16:445][ 81]LogInit: FAudioDevice initialized.
+[2016.10.11-17.55.16:477][ 81]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.55.16:482][ 81]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_05.Level_05 up for play (max tick rate 0) at 2016.10.11-13.55.16
+[2016.10.11-17.55.16:482][ 81]LogWorld: Bringing up level for play took: 0.003895
+[2016.10.11-17.55.16:483][ 81]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.55.16:483][ 81]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.55.16:483][ 81]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.55.16:483][ 81]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.55.16:483][ 81]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_05 0.754
+[2016.10.11-17.55.16:484][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05' with GeneratedClass '/Game/Demo/Maps/Level_05.Level_05_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05'
+[2016.10.11-17.55.52:234][ 19]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05' with GeneratedClass '/Game/Demo/Maps/Level_05.Level_05_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05'
+[2016.10.11-17.55.52:273][ 19]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05' with GeneratedClass '/Game/Demo/Maps/Level_05.Level_05_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05'
+[2016.10.11-17.56.00:084][800]LogEditorViewport: Clicking Background
+[2016.10.11-17.56.01:153][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_05" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.56.01:257][915]LogSavePackage: Save=78.72ms
+[2016.10.11-17.56.01:257][915]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_055CCF361341CD2E680ED4A98AD24E670F.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap'
+[2016.10.11-17.56.01:259][915]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_05.umap
+[2016.10.11-17.56.01:283][915]LogFileHelpers: Saving map 'Level_05' took 0.173
+[2016.10.11-17.56.01:796][969]LogEditorViewport: Clicking Background
+[2016.10.11-17.56.04:355][270]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05' with GeneratedClass '/Game/Demo/Maps/Level_05.Level_05_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05'
+[2016.10.11-17.56.04:355][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.11-17.56.04:355][270]PIE: New page: PIE session: Level_05 (Oct 11, 2016, 8:56:04 AM)
+[2016.10.11-17.56.04:355][270]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_05
+[2016.10.11-17.56.04:358][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002908s)
+[2016.10.11-17.56.04:359][270]LogAIModule: Creating AISystem for world Level_05
+[2016.10.11-17.56.04:359][270]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2016.10.11-17.56.04:359][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_05.Level_05 to /Game/Demo/Maps/UEDPIE_0_Level_05.Level_05 (0.004186s)
+[2016.10.11-17.56.04:376][270]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.56.04:379][270]LogInit: FAudioDevice initialized.
+[2016.10.11-17.56.04:409][270]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.56.04:414][270]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_05.Level_05 up for play (max tick rate 0) at 2016.10.11-13.56.04
+[2016.10.11-17.56.04:414][270]LogWorld: Bringing up level for play took: 0.003758
+[2016.10.11-17.56.04:415][270]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.56.04:415][270]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.56.04:415][270]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.56.04:416][270]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.56.04:416][270]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_05 0.687
+[2016.10.11-17.56.04:416][270]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05' with GeneratedClass '/Game/Demo/Maps/Level_05.Level_05_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05'
+[2016.10.11-17.56.36:455][900]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.56.36:455][900]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.56.36:456][900]LogNet: Browse: /Game/Demo/Maps/Level_00
+[2016.10.11-17.56.36:456][900]LogLoad: LoadMap: /Game/Demo/Maps/Level_00
+[2016.10.11-17.56.36:480][900]Cmd: MEM
+[2016.10.11-17.56.36:494][900]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-17.56.36:494][900]LogMemory: Process Physical Memory: 1143.93 MB used, 1150.32 MB peak
+[2016.10.11-17.56.36:494][900]LogMemory: Process Virtual Memory: 1637.26 MB used, 1672.32 MB peak
+[2016.10.11-17.56.36:494][900]LogMemory: Physical Memory: 4447.00 MB used, 32719.21 MB total
+[2016.10.11-17.56.36:494][900]LogMemory: Virtual Memory: 2343.57 MB used, 134217728.00 MB total
+[2016.10.11-17.56.36:494][900]LogMemory: 
+[2016.10.11-17.56.36:494][900]Allocator Stats for TBB: (not implemented)
+[2016.10.11-17.56.36:521][900]LogAIModule: Creating AISystem for world Level_00
+[2016.10.11-17.56.36:521][900]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.56.36:531][900]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.10.11-13.56.36
+[2016.10.11-17.56.36:531][900]LogWorld: Bringing up level for play took: 0.009140
+[2016.10.11-17.56.36:532][900]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.56.36:532][900]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.56.36:532][900]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.56.36:532][900]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.56.36:532][900]LogLoad: Took 0.076683 seconds to LoadMap(/Game/Demo/Maps/Level_00)
+[2016.10.11-17.56.41:684][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05' with GeneratedClass '/Game/Demo/Maps/Level_05.Level_05_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05'
+[2016.10.11-17.56.41:721][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05' with GeneratedClass '/Game/Demo/Maps/Level_05.Level_05_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_05.Level_05:PersistentLevel.Level_05'
+[2016.10.11-17.56.47:196][967]LogAIModule: Creating AISystem for world Level_00
+[2016.10.11-17.56.47:215][967]Cmd: MAP LOAD FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.11-17.56.47:215][967]LightingResults: New page: Lighting Build
+[2016.10.11-17.56.47:215][967]LoadErrors: New page: Loading map: Level_00.umap
+[2016.10.11-17.56.47:216][967]MapCheck: New page: Map Check
+[2016.10.11-17.56.47:216][967]LightingResults: New page: Lighting Build
+[2016.10.11-17.56.47:234][967]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.11-17.56.47:258][967]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.11-17.56.47:298][967]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.252ms to complete.
+[2016.10.11-17.56.47:298][967]LogFileHelpers: Loading map 'Level_00' took 0.084
+[2016.10.11-17.56.49:692][244]LogEditorViewport: Clicking on Actor (LMB): dummyMovement_C (dummyMovement_Blueprint)
+[2016.10.11-17.56.50:781][370]Cmd: DELETE
+[2016.10.11-17.56.50:781][370]Cmd: ACTOR DELETE
+[2016.10.11-17.56.50:782][370]LogEditorActor: Deleted Actor: dummyMovement_C
+[2016.10.11-17.56.50:795][370]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2016.10.11-17.56.51:300][430]LogEditorViewport: Clicking on Actor (LMB): dummyTarget_Blueprint_C (dummyTarget_Blueprint)
+[2016.10.11-17.56.54:068][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.56.54:195][738]LogSavePackage: Save=99.15ms
+[2016.10.11-17.56.54:195][738]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_00E40A1E6C498834B1ED1A26B90E2CC914.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap'
+[2016.10.11-17.56.54:197][738]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap
+[2016.10.11-17.56.54:220][738]LogFileHelpers: Saving map 'Level_00' took 0.193
+[2016.10.11-17.56.54:531][765]LogEditorViewport: Clicking Background
+[2016.10.11-17.56.55:345][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-17.56.55:345][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.11-17.56.55:345][857]PIE: New page: PIE session: Level_00 (Oct 11, 2016, 8:56:55 AM)
+[2016.10.11-17.56.55:345][857]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2016.10.11-17.56.55:350][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005347s)
+[2016.10.11-17.56.55:351][857]LogAIModule: Creating AISystem for world Level_00
+[2016.10.11-17.56.55:351][857]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2016.10.11-17.56.55:351][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.006346s)
+[2016.10.11-17.56.55:369][857]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.56.55:372][857]LogInit: FAudioDevice initialized.
+[2016.10.11-17.56.55:405][857]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.56.55:413][857]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.10.11-13.56.55
+[2016.10.11-17.56.55:414][857]LogWorld: Bringing up level for play took: 0.007823
+[2016.10.11-17.56.55:414][857]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.56.55:414][857]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.56.55:414][857]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.56.55:415][857]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.56.55:415][857]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 -0.314
+[2016.10.11-17.56.55:415][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-17.57.21:694][ 34]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.57.21:695][ 34]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.57.21:695][ 34]LogNet: Browse: /Game/Demo/Maps/Level_00
+[2016.10.11-17.57.21:695][ 34]LogLoad: LoadMap: /Game/Demo/Maps/Level_00
+[2016.10.11-17.57.21:727][ 34]Cmd: MEM
+[2016.10.11-17.57.21:742][ 34]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-17.57.21:742][ 34]LogMemory: Process Physical Memory: 1143.91 MB used, 1150.32 MB peak
+[2016.10.11-17.57.21:742][ 34]LogMemory: Process Virtual Memory: 1564.31 MB used, 1728.25 MB peak
+[2016.10.11-17.57.21:742][ 34]LogMemory: Physical Memory: 4465.64 MB used, 32719.21 MB total
+[2016.10.11-17.57.21:742][ 34]LogMemory: Virtual Memory: 2274.39 MB used, 134217728.00 MB total
+[2016.10.11-17.57.21:742][ 34]LogMemory: 
+[2016.10.11-17.57.21:742][ 34]Allocator Stats for TBB: (not implemented)
+[2016.10.11-17.57.21:742][ 34]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2016.10.11-17.57.21:749][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006568s)
+[2016.10.11-17.57.21:749][ 34]LogAIModule: Creating AISystem for world Level_00
+[2016.10.11-17.57.21:750][ 34]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2016.10.11-17.57.21:750][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.007542s)
+[2016.10.11-17.57.21:750][ 34]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.57.21:758][ 34]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.10.11-13.57.21
+[2016.10.11-17.57.21:759][ 34]LogWorld: Bringing up level for play took: 0.008069
+[2016.10.11-17.57.21:759][ 34]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.57.21:759][ 34]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.57.21:759][ 34]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.57.21:760][ 34]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.57.21:760][ 34]LogLoad: Took 0.065083 seconds to LoadMap(/Game/Demo/Maps/UEDPIE_0_Level_00)
+[2016.10.11-17.57.26:463][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-17.57.26:505][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-17.57.34:058][269]LogEditorViewport: Clicking on Actor (LMB): paper_A_level00_C (paper_A)
+[2016.10.11-17.57.36:267][525]LogEditorViewport: Clicking on Actor (LMB): paper_A_level00_C (paper_A)
+[2016.10.11-17.57.36:377][532]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2016.10.11-17.57.40:524][973]LogRenderer: Reallocating scene render targets to support 1048x568 (Frame:39921).
+[2016.10.11-17.58.27:351][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.58.27:478][547]LogSavePackage: Save=100.60ms
+[2016.10.11-17.58.27:478][547]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_00082B987D4E0286399B58DDA379C547C4.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap'
+[2016.10.11-17.58.27:481][547]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap
+[2016.10.11-17.58.27:504][547]LogFileHelpers: Saving map 'Level_00' took 0.196
+[2016.10.11-17.58.27:506][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/paper_A_level00" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level00.uasset" SILENT=true
+[2016.10.11-17.58.27:527][547]LogSavePackage: Save=7.55ms
+[2016.10.11-17.58.27:527][547]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/paper_A_level00D3E0E4554E266B58F5219A9696941D0A.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level00.uasset'
+[2016.10.11-17.58.27:530][547]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level00.uasset
+[2016.10.11-17.59.28:386][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-17.59.28:520][985]LogSavePackage: Save=106.88ms
+[2016.10.11-17.59.28:520][985]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_003DF545E44DD80EAE2D933BA8758067B7.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap'
+[2016.10.11-17.59.28:522][985]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap
+[2016.10.11-17.59.28:549][985]LogFileHelpers: Saving map 'Level_00' took 0.204
+[2016.10.11-17.59.28:551][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/paper_A_level00" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level00.uasset" SILENT=true
+[2016.10.11-17.59.28:572][985]LogSavePackage: Save=8.49ms
+[2016.10.11-17.59.28:572][985]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/paper_A_level009618E8D4447E6B82F4C54EB457773F11.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level00.uasset'
+[2016.10.11-17.59.28:574][985]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level00.uasset
+[2016.10.11-17.59.44:795][897]LogEditorViewport: Clicking Background
+[2016.10.11-17.59.45:762][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-17.59.45:762][  5]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.10.11-17.59.45:762][  5]LogPlayLevel: [PlayLevel] Compiling paper_A_level00 before play...
+[2016.10.11-17.59.45:888][  5]LogPlayLevel: PlayLevel: Blueprint regeneration took 125 ms (1 blueprints)
+[2016.10.11-17.59.45:888][  5]PIE: New page: PIE session: Level_00 (Oct 11, 2016, 8:59:45 AM)
+[2016.10.11-17.59.45:888][  5]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2016.10.11-17.59.45:895][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006542s)
+[2016.10.11-17.59.45:896][  5]LogAIModule: Creating AISystem for world Level_00
+[2016.10.11-17.59.45:896][  5]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2016.10.11-17.59.45:897][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.008452s)
+[2016.10.11-17.59.45:914][  5]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-17.59.45:917][  5]LogInit: FAudioDevice initialized.
+[2016.10.11-17.59.45:947][  5]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.59.45:956][  5]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.10.11-13.59.45
+[2016.10.11-17.59.45:956][  5]LogWorld: Bringing up level for play took: 0.007767
+[2016.10.11-17.59.45:957][  5]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.59.45:957][  5]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.59.45:957][  5]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.59.45:957][  5]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.59.45:957][  5]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 0.228
+[2016.10.11-17.59.45:958][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-17.59.55:101][759]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-17.59.55:113][760]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.59.55:113][760]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-17.59.55:114][760]LogNet: Browse: /Game/Demo/Maps/Level_00
+[2016.10.11-17.59.55:114][760]LogLoad: LoadMap: /Game/Demo/Maps/Level_00
+[2016.10.11-17.59.55:152][760]Cmd: MEM
+[2016.10.11-17.59.55:166][760]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-17.59.55:166][760]LogMemory: Process Physical Memory: 1284.39 MB used, 1289.47 MB peak
+[2016.10.11-17.59.55:166][760]LogMemory: Process Virtual Memory: 1873.64 MB used, 1875.63 MB peak
+[2016.10.11-17.59.55:166][760]LogMemory: Physical Memory: 4579.50 MB used, 32719.21 MB total
+[2016.10.11-17.59.55:166][760]LogMemory: Virtual Memory: 2580.31 MB used, 134217728.00 MB total
+[2016.10.11-17.59.55:166][760]LogMemory: 
+[2016.10.11-17.59.55:166][760]Allocator Stats for TBB: (not implemented)
+[2016.10.11-17.59.55:166][760]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2016.10.11-17.59.55:172][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005210s)
+[2016.10.11-17.59.55:173][760]LogAIModule: Creating AISystem for world Level_00
+[2016.10.11-17.59.55:173][760]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2016.10.11-17.59.55:173][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.006967s)
+[2016.10.11-17.59.55:173][760]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-17.59.55:182][760]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.10.11-13.59.55
+[2016.10.11-17.59.55:182][760]LogWorld: Bringing up level for play took: 0.008175
+[2016.10.11-17.59.55:183][760]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.59.55:183][760]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-17.59.55:183][760]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.59.55:184][760]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-17.59.55:184][760]LogLoad: Took 0.070256 seconds to LoadMap(/Game/Demo/Maps/UEDPIE_0_Level_00)
+[2016.10.11-17.59.57:966][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-17.59.58:007][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-18.00.02:062][467]LogEditorViewport: Clicking on Actor (LMB): paper_A_level00_C (paper_A)
+[2016.10.11-18.00.18:788][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-18.00.18:915][433]LogSavePackage: Save=100.33ms
+[2016.10.11-18.00.18:915][433]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_0082D78F054BF428833A65F39A13D00558.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap'
+[2016.10.11-18.00.18:918][433]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap
+[2016.10.11-18.00.18:942][433]LogFileHelpers: Saving map 'Level_00' took 0.195
+[2016.10.11-18.00.29:150][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/paper_A_level00" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level00.uasset" SILENT=true
+[2016.10.11-18.00.29:171][637]LogSavePackage: Save=7.34ms
+[2016.10.11-18.00.29:171][637]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/paper_A_level00A20488E743E8A9FF0DA048BF827A020A.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level00.uasset'
+[2016.10.11-18.00.29:173][637]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Blueprint/paper_A_level00.uasset
+[2016.10.11-18.00.33:312][ 68]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2016.10.11-18.00.34:667][199]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-18.00.36:829][408]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-18.00.38:349][577]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.11-18.00.39:444][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-18.00.39:574][693]LogSavePackage: Save=102.87ms
+[2016.10.11-18.00.39:574][693]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_00E0798B8C437B564E6742E9A2E15C25B6.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap'
+[2016.10.11-18.00.39:576][693]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap
+[2016.10.11-18.00.39:600][693]LogFileHelpers: Saving map 'Level_00' took 0.198
+[2016.10.11-18.00.42:771][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-18.00.42:771][ 51]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.10.11-18.00.42:771][ 51]LogPlayLevel: [PlayLevel] Compiling paper_A_level00 before play...
+[2016.10.11-18.00.42:856][ 51]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (1 blueprints)
+[2016.10.11-18.00.42:857][ 51]PIE: New page: PIE session: Level_00 (Oct 11, 2016, 9:00:42 AM)
+[2016.10.11-18.00.42:857][ 51]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_00
+[2016.10.11-18.00.42:861][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004827s)
+[2016.10.11-18.00.42:862][ 51]LogAIModule: Creating AISystem for world Level_00
+[2016.10.11-18.00.42:862][ 51]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2016.10.11-18.00.42:863][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_00.Level_00 to /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 (0.006037s)
+[2016.10.11-18.00.42:880][ 51]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-18.00.42:883][ 51]LogInit: FAudioDevice initialized.
+[2016.10.11-18.00.42:912][ 51]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-18.00.42:921][ 51]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2016.10.11-14.00.42
+[2016.10.11-18.00.42:921][ 51]LogWorld: Bringing up level for play took: 0.007539
+[2016.10.11-18.00.42:922][ 51]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.00.42:922][ 51]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.00.42:922][ 51]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.00.42:922][ 51]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.00.42:922][ 51]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_00 -0.807
+[2016.10.11-18.00.42:923][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-18.00.45:295][245]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.00.45:295][245]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.00.45:296][245]LogNet: Browse: /Game/Demo/Maps/Level_01
+[2016.10.11-18.00.45:296][245]LogLoad: LoadMap: /Game/Demo/Maps/Level_01
+[2016.10.11-18.00.45:329][245]Cmd: MEM
+[2016.10.11-18.00.45:344][245]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-18.00.45:344][245]LogMemory: Process Physical Memory: 1293.89 MB used, 1294.40 MB peak
+[2016.10.11-18.00.45:344][245]LogMemory: Process Virtual Memory: 1799.53 MB used, 1969.04 MB peak
+[2016.10.11-18.00.45:344][245]LogMemory: Physical Memory: 4588.95 MB used, 32719.21 MB total
+[2016.10.11-18.00.45:344][245]LogMemory: Virtual Memory: 2507.02 MB used, 134217728.00 MB total
+[2016.10.11-18.00.45:344][245]LogMemory: 
+[2016.10.11-18.00.45:344][245]Allocator Stats for TBB: (not implemented)
+[2016.10.11-18.00.45:371][245]LogAIModule: Creating AISystem for world Level_01
+[2016.10.11-18.00.45:371][245]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-18.00.45:380][245]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2016.10.11-14.00.45
+[2016.10.11-18.00.45:381][245]LogWorld: Bringing up level for play took: 0.009178
+[2016.10.11-18.00.45:381][245]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.00.45:381][245]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.00.45:381][245]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.00.45:382][245]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.00.45:382][245]LogLoad: Took 0.086544 seconds to LoadMap(/Game/Demo/Maps/Level_01)
+[2016.10.11-18.01.38:792][279]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.01.38:792][279]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.01.38:792][279]LogNet: Browse: /Game/Demo/Maps/Level_02
+[2016.10.11-18.01.38:793][279]LogLoad: LoadMap: /Game/Demo/Maps/Level_02
+[2016.10.11-18.01.38:849][279]Cmd: MEM
+[2016.10.11-18.01.38:863][279]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-18.01.38:863][279]LogMemory: Process Physical Memory: 1294.66 MB used, 1298.72 MB peak
+[2016.10.11-18.01.38:863][279]LogMemory: Process Virtual Memory: 1802.84 MB used, 1969.04 MB peak
+[2016.10.11-18.01.38:863][279]LogMemory: Physical Memory: 4618.84 MB used, 32719.21 MB total
+[2016.10.11-18.01.38:863][279]LogMemory: Virtual Memory: 2507.19 MB used, 134217728.00 MB total
+[2016.10.11-18.01.38:863][279]LogMemory: 
+[2016.10.11-18.01.38:863][279]Allocator Stats for TBB: (not implemented)
+[2016.10.11-18.01.38:927][279]LogAIModule: Creating AISystem for world Level_02
+[2016.10.11-18.01.38:927][279]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-18.01.38:940][279]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2016.10.11-14.01.38
+[2016.10.11-18.01.38:940][279]LogWorld: Bringing up level for play took: 0.011940
+[2016.10.11-18.01.38:941][279]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.01.38:941][279]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.01.38:941][279]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.01.38:942][279]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.01.38:942][279]LogLoad: Took 0.149161 seconds to LoadMap(/Game/Demo/Maps/Level_02)
+[2016.10.11-18.02.01:164][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-18.02.01:208][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Demo/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2016.10.11-18.02.04:624][491]LogAIModule: Creating AISystem for world Level_02
+[2016.10.11-18.02.07:074][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_00" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-18.02.07:207][596]LogSavePackage: Save=102.32ms
+[2016.10.11-18.02.07:207][596]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_00313100894E4EF879D6F8048E7E6AD477.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap'
+[2016.10.11-18.02.07:209][596]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_00.umap
+[2016.10.11-18.02.07:235][596]LogFileHelpers: Saving map 'Level_00' took 0.203
+[2016.10.11-18.02.07:767][656]Cmd: MAP LOAD FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.11-18.02.07:767][656]LightingResults: New page: Lighting Build
+[2016.10.11-18.02.07:767][656]LoadErrors: New page: Loading map: Level_02.umap
+[2016.10.11-18.02.07:769][656]MapCheck: New page: Map Check
+[2016.10.11-18.02.07:769][656]LightingResults: New page: Lighting Build
+[2016.10.11-18.02.07:791][656]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.11-18.02.07:816][656]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.11-18.02.07:855][656]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 38.53ms to complete.
+[2016.10.11-18.02.07:855][656]LogFileHelpers: Loading map 'Level_02' took 0.089
+[2016.10.11-18.02.13:294][262]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castleCenter_rounded_Sprite_5)
+[2016.10.11-18.02.16:655][556]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castleCenter_rounded_Sprite_3)
+[2016.10.11-18.02.22:289][ 11]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castle_Sprite_85)
+[2016.10.11-18.02.23:623][166]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castleCenter_rounded_Sprite_5)
+[2016.10.11-18.02.25:494][385]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castleCenter_rounded_Sprite_4)
+[2016.10.11-18.02.28:597][655]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castleCenter_rounded_Sprite_0)
+[2016.10.11-18.02.29:960][813]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castle_Sprite_83)
+[2016.10.11-18.02.30:963][928]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castleCenter_rounded_Sprite_1)
+[2016.10.11-18.02.31:588][996]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castleCenter_rounded_Sprite_2)
+[2016.10.11-18.02.36:197][365]LogEditorViewport: Clicking Background
+[2016.10.11-18.02.36:788][433]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castleCenter_rounded_Sprite_0)
+[2016.10.11-18.02.37:493][511]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castleCenter_rounded_Sprite_1)
+[2016.10.11-18.02.38:084][576]LogEditorViewport: Clicking Background
+[2016.10.11-18.02.41:273][926]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castle_Sprite_119)
+[2016.10.11-18.02.42:926][119]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (castle_Sprite_130)
+[2016.10.11-18.02.47:153][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/Level_02" FILE="../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.10.11-18.02.47:290][582]LogSavePackage: Save=108.46ms
+[2016.10.11-18.02.47:290][582]LogSavePackage: Moving '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Saved/Level_0285E6868C48E699A9FC5F06B7B4C8C340.tmp' to '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_02.umap'
+[2016.10.11-18.02.47:292][582]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/Demo/Maps/Level_02.umap
+[2016.10.11-18.02.47:318][582]LogFileHelpers: Saving map 'Level_02' took 0.207
+[2016.10.11-18.02.48:084][665]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02' with GeneratedClass '/Game/Demo/Maps/Level_02.Level_02_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02'
+[2016.10.11-18.02.48:084][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.11-18.02.48:084][665]PIE: New page: PIE session: Level_02 (Oct 11, 2016, 9:02:48 AM)
+[2016.10.11-18.02.48:084][665]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_Level_02
+[2016.10.11-18.02.48:090][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006026s)
+[2016.10.11-18.02.48:091][665]LogAIModule: Creating AISystem for world Level_02
+[2016.10.11-18.02.48:091][665]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2016.10.11-18.02.48:091][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/Level_02.Level_02 to /Game/Demo/Maps/UEDPIE_0_Level_02.Level_02 (0.007238s)
+[2016.10.11-18.02.48:113][665]LogInit: XAudio2 using 'Line Out (Scarlett 18i20 USB)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.11-18.02.48:116][665]LogInit: FAudioDevice initialized.
+[2016.10.11-18.02.48:148][665]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-18.02.48:158][665]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_02.Level_02 up for play (max tick rate 0) at 2016.10.11-14.02.48
+[2016.10.11-18.02.48:158][665]LogWorld: Bringing up level for play took: 0.008714
+[2016.10.11-18.02.48:159][665]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.02.48:159][665]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.02.48:159][665]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.02.48:160][665]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.02.48:160][665]PIE: Info Play in editor start time for /Game/Demo/Maps/UEDPIE_0_Level_02 0.431
+[2016.10.11-18.02.48:160][665]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02' with GeneratedClass '/Game/Demo/Maps/Level_02.Level_02_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02'
+[2016.10.11-18.03.37:481][739]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.03.37:481][739]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.03.37:482][739]LogNet: Browse: /Game/Demo/Maps/Level_03
+[2016.10.11-18.03.37:482][739]LogLoad: LoadMap: /Game/Demo/Maps/Level_03
+[2016.10.11-18.03.37:547][739]Cmd: MEM
+[2016.10.11-18.03.37:561][739]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-18.03.37:561][739]LogMemory: Process Physical Memory: 1295.59 MB used, 1300.02 MB peak
+[2016.10.11-18.03.37:561][739]LogMemory: Process Virtual Memory: 1875.90 MB used, 1969.04 MB peak
+[2016.10.11-18.03.37:561][739]LogMemory: Physical Memory: 4624.11 MB used, 32719.21 MB total
+[2016.10.11-18.03.37:561][739]LogMemory: Virtual Memory: 2581.95 MB used, 134217728.00 MB total
+[2016.10.11-18.03.37:561][739]LogMemory: 
+[2016.10.11-18.03.37:561][739]Allocator Stats for TBB: (not implemented)
+[2016.10.11-18.03.37:600][739]LogAIModule: Creating AISystem for world Level_03
+[2016.10.11-18.03.37:600][739]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-18.03.37:618][739]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2016.10.11-14.03.37
+[2016.10.11-18.03.37:618][739]LogWorld: Bringing up level for play took: 0.016978
+[2016.10.11-18.03.37:619][739]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.03.37:619][739]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.03.37:619][739]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.03.37:620][739]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.03.37:620][739]LogLoad: Took 0.138173 seconds to LoadMap(/Game/Demo/Maps/Level_03)
+[2016.10.11-18.04.27:302][487]LogBlueprintUserMessages: [paper_A_level03_79] Collect more papers
+[2016.10.11-18.04.40:384][476]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.04.40:384][476]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.04.40:384][476]LogNet: Browse: /Game/Demo/Maps/Level_04
+[2016.10.11-18.04.40:384][476]LogLoad: LoadMap: /Game/Demo/Maps/Level_04
+[2016.10.11-18.04.40:417][476]Cmd: MEM
+[2016.10.11-18.04.40:433][476]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-18.04.40:433][476]LogMemory: Process Physical Memory: 1295.42 MB used, 1301.93 MB peak
+[2016.10.11-18.04.40:434][476]LogMemory: Process Virtual Memory: 1810.58 MB used, 2010.57 MB peak
+[2016.10.11-18.04.40:434][476]LogMemory: Physical Memory: 4620.09 MB used, 32719.21 MB total
+[2016.10.11-18.04.40:434][476]LogMemory: Virtual Memory: 2518.20 MB used, 134217728.00 MB total
+[2016.10.11-18.04.40:434][476]LogMemory: 
+[2016.10.11-18.04.40:434][476]Allocator Stats for TBB: (not implemented)
+[2016.10.11-18.04.40:519][476]LogAIModule: Creating AISystem for world Level_04
+[2016.10.11-18.04.40:519][476]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-18.04.40:541][476]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_04.Level_04 up for play (max tick rate 0) at 2016.10.11-14.04.40
+[2016.10.11-18.04.40:542][476]LogWorld: Bringing up level for play took: 0.021874
+[2016.10.11-18.04.40:543][476]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.04.40:543][476]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.04.40:543][476]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.04.40:543][476]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.04.40:543][476]LogLoad: Took 0.159094 seconds to LoadMap(/Game/Demo/Maps/Level_04)
+[2016.10.11-18.06.05:465][862]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-18.06.05:478][863]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.06.05:478][863]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.06.05:478][863]LogNet: Browse: /Game/Demo/Maps/Level_04
+[2016.10.11-18.06.05:479][863]LogLoad: LoadMap: /Game/Demo/Maps/Level_04
+[2016.10.11-18.06.05:532][863]Cmd: MEM
+[2016.10.11-18.06.05:545][863]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-18.06.05:545][863]LogMemory: Process Physical Memory: 1294.70 MB used, 1302.75 MB peak
+[2016.10.11-18.06.05:545][863]LogMemory: Process Virtual Memory: 1820.93 MB used, 2010.57 MB peak
+[2016.10.11-18.06.05:545][863]LogMemory: Physical Memory: 4613.68 MB used, 32719.21 MB total
+[2016.10.11-18.06.05:545][863]LogMemory: Virtual Memory: 2519.05 MB used, 134217728.00 MB total
+[2016.10.11-18.06.05:545][863]LogMemory: 
+[2016.10.11-18.06.05:545][863]Allocator Stats for TBB: (not implemented)
+[2016.10.11-18.06.05:629][863]LogAIModule: Creating AISystem for world Level_04
+[2016.10.11-18.06.05:630][863]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-18.06.05:651][863]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_04.Level_04 up for play (max tick rate 0) at 2016.10.11-14.06.05
+[2016.10.11-18.06.05:652][863]LogWorld: Bringing up level for play took: 0.021269
+[2016.10.11-18.06.05:652][863]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.06.05:652][863]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.06.05:652][863]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.06.05:653][863]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.06.05:653][863]LogLoad: Took 0.174852 seconds to LoadMap(/Game/Demo/Maps/Level_04)
+[2016.10.11-18.06.57:787][791]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-18.06.57:808][792]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.06.57:808][792]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.06.57:809][792]LogNet: Browse: /Game/Demo/Maps/Level_04
+[2016.10.11-18.06.57:809][792]LogLoad: LoadMap: /Game/Demo/Maps/Level_04
+[2016.10.11-18.06.57:869][792]Cmd: MEM
+[2016.10.11-18.06.57:883][792]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-18.06.57:883][792]LogMemory: Process Physical Memory: 1298.79 MB used, 1302.75 MB peak
+[2016.10.11-18.06.57:883][792]LogMemory: Process Virtual Memory: 1824.07 MB used, 2010.57 MB peak
+[2016.10.11-18.06.57:883][792]LogMemory: Physical Memory: 4617.81 MB used, 32719.21 MB total
+[2016.10.11-18.06.57:883][792]LogMemory: Virtual Memory: 2523.88 MB used, 134217728.00 MB total
+[2016.10.11-18.06.57:883][792]LogMemory: 
+[2016.10.11-18.06.57:883][792]Allocator Stats for TBB: (not implemented)
+[2016.10.11-18.06.57:966][792]LogAIModule: Creating AISystem for world Level_04
+[2016.10.11-18.06.57:966][792]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-18.06.57:989][792]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_04.Level_04 up for play (max tick rate 0) at 2016.10.11-14.06.57
+[2016.10.11-18.06.57:990][792]LogWorld: Bringing up level for play took: 0.021952
+[2016.10.11-18.06.57:990][792]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.06.57:990][792]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.06.57:990][792]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.06.57:991][792]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.06.57:991][792]LogLoad: Took 0.180981 seconds to LoadMap(/Game/Demo/Maps/Level_04)
+[2016.10.11-18.07.59:343][403]LogBlueprintUserMessages: [paper_A_level04_79] Collect more papers
+[2016.10.11-18.08.12:796][417]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.08.12:796][417]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.08.12:796][417]LogNet: Browse: /Game/Demo/Maps/Level_05
+[2016.10.11-18.08.12:796][417]LogLoad: LoadMap: /Game/Demo/Maps/Level_05
+[2016.10.11-18.08.12:852][417]Cmd: MEM
+[2016.10.11-18.08.12:869][417]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-18.08.12:869][417]LogMemory: Process Physical Memory: 1293.38 MB used, 1302.75 MB peak
+[2016.10.11-18.08.12:869][417]LogMemory: Process Virtual Memory: 1818.30 MB used, 2010.57 MB peak
+[2016.10.11-18.08.12:869][417]LogMemory: Physical Memory: 4613.96 MB used, 32719.21 MB total
+[2016.10.11-18.08.12:869][417]LogMemory: Virtual Memory: 2528.70 MB used, 134217728.00 MB total
+[2016.10.11-18.08.12:869][417]LogMemory: 
+[2016.10.11-18.08.12:869][417]Allocator Stats for TBB: (not implemented)
+[2016.10.11-18.08.12:920][417]LogAIModule: Creating AISystem for world Level_05
+[2016.10.11-18.08.12:921][417]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-18.08.12:926][417]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_05.Level_05 up for play (max tick rate 0) at 2016.10.11-14.08.12
+[2016.10.11-18.08.12:926][417]LogWorld: Bringing up level for play took: 0.004607
+[2016.10.11-18.08.12:927][417]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.08.12:927][417]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.08.12:927][417]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.08.12:927][417]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.08.12:927][417]LogLoad: Took 0.131187 seconds to LoadMap(/Game/Demo/Maps/Level_05)
+[2016.10.11-18.08.24:075][345]LogBlueprintUserMessages: [BP_Man_C_0] You Died
+[2016.10.11-18.08.24:087][346]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.08.24:087][346]LogGameState: Match State Changed from InProgress to LeavingMap
+[2016.10.11-18.08.24:088][346]LogNet: Browse: /Game/Demo/Maps/Level_05
+[2016.10.11-18.08.24:088][346]LogLoad: LoadMap: /Game/Demo/Maps/Level_05
+[2016.10.11-18.08.24:123][346]Cmd: MEM
+[2016.10.11-18.08.24:137][346]LogMemory: Platform Memory Stats for Windows
+[2016.10.11-18.08.24:137][346]LogMemory: Process Physical Memory: 1298.81 MB used, 1302.75 MB peak
+[2016.10.11-18.08.24:137][346]LogMemory: Process Virtual Memory: 1822.93 MB used, 2010.57 MB peak
+[2016.10.11-18.08.24:137][346]LogMemory: Physical Memory: 4623.07 MB used, 32719.21 MB total
+[2016.10.11-18.08.24:137][346]LogMemory: Virtual Memory: 2528.70 MB used, 134217728.00 MB total
+[2016.10.11-18.08.24:137][346]LogMemory: 
+[2016.10.11-18.08.24:137][346]Allocator Stats for TBB: (not implemented)
+[2016.10.11-18.08.24:188][346]LogAIModule: Creating AISystem for world Level_05
+[2016.10.11-18.08.24:188][346]LogWorld: Game class is '2DSideScrollerGameMode_C'
+[2016.10.11-18.08.24:194][346]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_Level_05.Level_05 up for play (max tick rate 0) at 2016.10.11-14.08.24
+[2016.10.11-18.08.24:194][346]LogWorld: Bringing up level for play took: 0.004653
+[2016.10.11-18.08.24:195][346]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.08.24:195][346]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.11-18.08.24:195][346]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.08.24:195][346]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.11-18.08.24:195][346]LogLoad: Took 0.107419 seconds to LoadMap(/Game/Demo/Maps/Level_05)
+[2016.10.11-18.09.00:411][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02' with GeneratedClass '/Game/Demo/Maps/Level_02.Level_02_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02'
+[2016.10.11-18.09.00:465][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel' has LevelScriptBlueprint '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02' with GeneratedClass '/Game/Demo/Maps/Level_02.Level_02_C' with ClassGeneratedBy '/Game/Demo/Maps/Level_02.Level_02:PersistentLevel.Level_02'
+[2016.10.11-18.09.38:665][903]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.10.11-18.09.38:736][903]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.10.11-18.09.38:800][903]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.10.11-18.09.38:981][904]Cmd: QUIT_EDITOR
+[2016.10.11-18.09.39:490][904]LogExit: Preparing to exit.
+[2016.10.11-18.09.39:973][904]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/doftg/First_2/Content/' was aborted.
+[2016.10.11-18.09.40:030][904]LogExit: Editor shut down
+[2016.10.11-18.09.40:030][904]LogExit: Transaction tracking system shut down
+[2016.10.11-18.09.40:169][904]LogObj: Freed 0b from 0 cluster array pools.
+[2016.10.11-18.09.40:170][904]LogExit: Object subsystem successfully closed.
+[2016.10.11-18.09.40:184][904]LogD3D11RHI: Shutdown
+[2016.10.11-18.09.40:184][904]LogD3D11RHI: CleanupD3DDevice
+[2016.10.11-18.09.40:255][904]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.10.11-18.09.40:266][904]LogModuleManager: Shutting down and abandoning module BlueprintGraph (236)
+[2016.10.11-18.09.40:266][904]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (235)
+[2016.10.11-18.09.40:266][904]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (234)
+[2016.10.11-18.09.40:266][904]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.10.11-18.09.40:266][904]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.10.11-18.09.40:266][904]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.10.11-18.09.40:266][904]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.10.11-18.09.40:266][904]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.10.11-18.09.40:267][904]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.10.11-18.09.40:267][904]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.10.11-18.09.40:267][904]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.10.11-18.09.40:267][904]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.10.11-18.09.40:267][904]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/doftg/First_2/Content/Collections/' was aborted.
+[2016.10.11-18.09.40:267][904]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/doftg/First_2/Content/Developers/Brian/Collections/' was aborted.
+[2016.10.11-18.09.40:268][904]LogDirectoryWatcher: A directory notification for 'C:/Users/Brian/Documents/GitHub/doftg/First_2/Saved/Collections/' was aborted.
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.10.11-18.09.40:268][904]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.10.11-18.09.40:269][904]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.10.11-18.09.40:269][904]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.10.11-18.09.40:269][904]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.10.11-18.09.40:269][904]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.10.11-18.09.40:269][904]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.10.11-18.09.40:269][904]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.10.11-18.09.40:575][904]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.10.11-18.09.40:575][904]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.10.11-18.09.40:575][904]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.10.11-18.09.40:575][904]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.10.11-18.09.40:575][904]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.10.11-18.09.40:576][904]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.10.11-18.09.40:577][904]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.10.11-18.09.40:577][904]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.10.11-18.09.40:577][904]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.10.11-18.09.40:577][904]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.10.11-18.09.40:577][904]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.10.11-18.09.40:577][904]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.10.11-18.09.40:577][904]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.10.11-18.09.40:631][904]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.10.11-18.09.40:631][904]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.10.11-18.09.40:631][904]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.10.11-18.09.40:631][904]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.10.11-18.09.40:631][904]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.10.11-18.09.40:631][904]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.10.11-18.09.40:631][904]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.10.11-18.09.40:631][904]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.10.11-18.09.40:631][904]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.10.11-18.09.40:643][904]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.10.11-18.09.40:643][904]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.10.11-18.09.40:646][904]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.10.11-18.09.40:782][904]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.10.11-18.09.40:783][904]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.10.11-18.09.40:784][904]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.10.11-18.09.40:784][904]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.10.11-18.09.40:785][904]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.10.11-18.09.40:787][904]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.10.11-18.09.40:787][904]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.10.11-18.09.40:888][904]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.10.11-18.09.40:988][904]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.10.11-18.09.40:988][904]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.10.11-18.09.40:988][904]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.10.11-18.09.40:988][904]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.10.11-18.09.40:988][904]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.10.11-18.09.40:988][904]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.10.11-18.09.40:988][904]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.10.11-18.09.40:988][904]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.10.11-18.09.40:988][904]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.10.11-18.09.40:989][904]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.10.11-18.09.40:994][904]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.10.11-18.09.40:994][904]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.10.11-18.09.40:994][904]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.10.11-18.09.40:994][904]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.10.11-18.09.40:994][904]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.10.11-18.09.40:994][904]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.10.11-18.09.40:994][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.10.11-18.09.40:995][904]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Brian/Documents/GitHub/doftg/First_2/Content/' was aborted.
+[2016.10.11-18.09.40:995][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.10.11-18.09.40:996][904]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.10.11-18.09.41:208][904]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.10.11-18.09.41:208][904]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.10.11-18.09.41:208][904]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.10.11-18.09.41:208][904]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.10.11-18.09.41:292][904]LogDerivedDataCache: Shutdown
+[2016.10.11-18.09.41:292][904]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.10.11-18.09.41:292][904]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.10.11-18.09.41:292][904]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.10.11-18.09.41:292][904]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.10.11-18.09.41:292][904]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.10.11-18.09.41:292][904]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.10.11-18.09.41:292][904]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.10.11-18.09.41:292][904]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.10.11-18.09.41:292][904]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.10.11-18.09.41:292][904]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.10.11-18.09.41:293][904]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.10.11-18.09.41:294][904]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.10.11-18.09.41:294][904]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.10.11-18.09.41:294][904]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.10.11-18.09.41:294][904]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.10.11-18.09.41:294][904]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.10.11-18.09.41:294][904]LogOnline:Display: Unloading online subsystem: NULL
+[2016.10.11-18.09.41:294][904]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.10.11-18.09.41:294][904]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.10.11-18.09.41:294][904]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDBB6B5AE-493A-91EB-0394-43A4B44F14C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.1-3142249%2B%2B%2BUE4%2BRelease-4.13&UserID=0c59ded548cb065b6ee1c4b14077824e%7C0088da38c4fe4f999d6f0e52c41d2185%7Ca2c83a08-4880-4295-ad75-ee163fceabee&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.10.11-18.09.41:316][904]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.10.11-18.09.41:316][904]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.10.11-18.09.41:316][904]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.10.11-18.09.41:316][904]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.10.11-18.09.41:316][904]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.10.11-18.09.41:323][904]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.10.11-18.09.41:323][904]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.10.11-18.09.41:323][904]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.10.11-18.09.41:323][904]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.10.11-18.09.41:323][904]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.10.11-18.09.41:323][904]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.10.11-18.09.41:323][904]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.10.11-18.09.41:323][904]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.10.11-18.09.41:323][904]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.10.11-18.09.41:323][904]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.10.11-18.09.41:326][904]LogExit: Exiting.
+[2016.10.11-18.09.41:327][904]Log file closed, 10/11/16 14:09:41
